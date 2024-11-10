@@ -3,7 +3,7 @@ eventListener('fetch', event => {
 });
 
 async function handleRequest(request) {
-  const url = 'https://chatbot-ji1z.onrender.com/chatbot-ji1z'; // Update with your actual API endpoint
+  const url = 'https://chatgpybykrishkd.tiiny.io/?question='; // Update with your actual API endpoint
 
   const head = {
     'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36',
